@@ -10,12 +10,9 @@ export default function Index() {
   return (
     <div className="screen index">
       <Head>
-        <title>Aleph.js</title>
-        <meta name="description" content="The Fullstack Framework in Deno." />
+        <title>Provedenza | a true story</title>
+        <meta name="description" content="Provedenza" />
       </Head>
-      <p className="logo">
-        <img src="./assets/logo.svg" width="75" height="75" title="Aleph.js" />
-      </p>
       <h1>
         The Fullstack Framework in Deno.
       </h1>
